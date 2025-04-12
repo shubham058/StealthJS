@@ -21,3 +21,5 @@ A powerful Bash-based automation tool to extract **JavaScript links**, **URLs**,
 - Modular and extensible — fits well in your recon automation.
 
 ---
+
+Note - Current Implementation will create noise in output. Future implementations will miminize these outputs. Delete any previously generated files using this script, for avoiding repetition in files. 
