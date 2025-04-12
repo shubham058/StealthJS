@@ -1,12 +1,5 @@
 # Usage 
-⚔️ StealthJS - Usage Guide
-=================================
-       __           ____  __     _
-  ___ / /____ ___ _/ / /_/ /    (_)__
- (_-</ __/ -_) _ `/ / __/ _ \  / (_-<
-/___/\__/\__/\_,_/_/\__/_//_/_/ /___/
-                           |___/
-=================================
+
 StealthJS is a bash-based script that extracts JavaScript links, paths, and URLs from websites and subdomains for recon and bug bounty hunting.
 
 🚀 Usage with Target Domain
