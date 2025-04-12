@@ -12,7 +12,7 @@ A powerful Bash-based automation tool to extract **JavaScript links**, **URLs**,
 
 ---
 
-## 🚀 Features
+## Features
 
 - Extract JS links from domains and subdomains.
 - Parse URLs and paths from JavaScript files.
